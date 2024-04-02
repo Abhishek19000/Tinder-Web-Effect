@@ -136,7 +136,7 @@ function setData(index){
         opacity:0,
         stagger: .06,
         ease:Power4.easeInOut,
-        duration: 1.5
+        duration: 1.2
     
      })
  });
@@ -149,7 +149,7 @@ function setData(index){
        opacity:0,
        stagger: .06,
        ease:Power4.easeInOut,
-       duration: 1.5
+       duration: 1.2
    
     })
 });
